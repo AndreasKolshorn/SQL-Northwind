@@ -1,3 +1,1 @@
-This repo contains script files of canonical sample databases from Microsoft. Some are no longer easily available so I've put them here to allow quick installation on SQL server.  Just download and open in SSMS query window.  You will need to create a DB instance and then change the Use statement to reflect the DB instance name. Should be able to just run the entire script after that.
-
-
+This repo contains script files of sample databases from Microsoft. For MS SQL, create a database instance. Then download the script file and open in SSMS query window. Change the Use db statement to reflect your instance name and run the script.
